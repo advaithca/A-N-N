@@ -9,3 +9,8 @@ I've been learning about Neural Networks again in Image Processing, thought I wo
 
 ## Screenshots
 ![ANN](./images/initial.png)
+
+## TODO
+- [x] Implement a simple Neural Network
+- [ ] Improve the Neural Network
+- [ ] Add more features
